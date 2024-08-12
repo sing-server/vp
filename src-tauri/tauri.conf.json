@@ -27,7 +27,7 @@
                 "url": "https://a.vpower.com.cn/task/arrange",
                 "width": 1980,
                 "height": 1024,
-                "fullscreen": true // 设置为true以启动时全屏
+                "fullscreen": true
             }
         ],
         "security": {
