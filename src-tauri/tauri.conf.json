@@ -25,9 +25,9 @@
             {
                 "title": "威豹金融物流智能运营管理平台",
                 "url": "https://a.vpower.com.cn/task/arrange",
-                "width": 1980,
-                "height": 1024,
-                "fullscreen": true
+                "width": 1024,
+                "height": 768,
+                "alwaysOnTop": true
             }
         ],
         "security": {
