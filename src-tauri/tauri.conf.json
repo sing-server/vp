@@ -23,10 +23,10 @@
         },
         "windows": [
             {
-                "title": "vpower",
+                "title": "威豹金融物流智能运营管理平台",
                 "url": "https://a.vpower.com.cn/task/arrange",
-                "width": 900,
-                "height": 600
+                "width": 1980,
+                "height": 1024
             }
         ],
         "security": {
