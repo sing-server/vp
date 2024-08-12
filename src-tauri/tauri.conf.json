@@ -14,7 +14,7 @@
             "all": false,
             "http": {
                 "all": true,
-                "scope": ["http://192.168.63.70/login?redirect=/index"]
+                "scope": ["https://a.vpower.com.cn/task/arrange"]
             },
             "shell": {
                 "all": false,
