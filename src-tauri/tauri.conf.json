@@ -6,7 +6,7 @@
         "distDir": "../dist"
     },
     "package": {
-        "productName": "LiveBox",
+        "productName": "vpower",
         "version": "0.0.3"
     },
     "tauri": {
@@ -14,7 +14,7 @@
             "all": false,
             "http": {
                 "all": true,
-                "scope": ["https://*"]
+                "scope": ["http://192.168.63.70/login?redirect=/index"]
             },
             "shell": {
                 "all": false,
@@ -23,7 +23,7 @@
         },
         "windows": [
             {
-                "title": "Livebox",
+                "title": "vpower",
                 "width": 900,
                 "height": 600
             }
@@ -34,7 +34,7 @@
         "bundle": {
             "active": true,
             "targets": "all",
-            "identifier": "com.live.box",
+            "identifier": "com.vpower.box",
             "icon": [
                 "icons/32x32.png",
                 "icons/128x128.png",
