@@ -7,7 +7,7 @@
     },
     "package": {
         "productName": "vpower",
-        "version": "0.0.3"
+        "version": "0.0.0"
     },
     "tauri": {
         "allowlist": {
@@ -26,7 +26,8 @@
                 "title": "威豹金融物流智能运营管理平台",
                 "url": "https://a.vpower.com.cn/task/arrange",
                 "width": 1980,
-                "height": 1024
+                "height": 1024，
+                "fullscreen": true // 设置为true以启动时全屏
             }
         ],
         "security": {
